@@ -12,5 +12,5 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="spring" width="26px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;"/>
 
